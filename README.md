@@ -1,3 +1,4 @@
+<img width="1894" height="823" alt="image" src="https://github.com/user-attachments/assets/508acf63-f8f6-424c-bbc6-ba457d46b88e" />
 # Career Conversation Bot
 
 An interactive chatbot that analyzes your CV and answers questions related to your career path, skills, and experiences.  
